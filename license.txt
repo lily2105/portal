@@ -1,1 +1,2 @@
 archivo de licencia
+Version 2.0
